@@ -2,8 +2,14 @@ html{
     background-color: b;
     
 }
+h1{
+    color: coral;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
 #Address{
     color: blue;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 #image{
     height: 150px;
