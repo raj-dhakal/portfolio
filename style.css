@@ -5,6 +5,12 @@ html{
 #Address{
     color: blue;
 }
+#image{
+    height: 150px;
+    width: 145px;
+    padding: 10px;
+    border: 10px solid black;
+}
 .middle{
     background-color:navajowhite;
     text-align: center;
